@@ -1,0 +1,1 @@
+the need to add a boot arg to the nvram of the opencore section with the value lilucpu=8 or it will fail to boot up,don't know why
