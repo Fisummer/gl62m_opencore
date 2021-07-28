@@ -1,1 +1,5 @@
-the need to add a boot arg to the nvram of the opencore section with the value lilucpu=8 or it will fail to boot up,don't know why
+1.migrate from clover to opencore ,everything fine than i was expected,but some minor bugs need to be fixed
+	a,sleep
+	b,dgpu wake from sleep
+	c,heat
+	d,touchpad and keyboard
